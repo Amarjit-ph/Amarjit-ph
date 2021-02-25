@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 My Journey begins with me being a computer curious kid to a Aspiring **Full Stack Developer**,<br>
 I'm always ready to learn new things and love exploring the world of Science and Technology<br>
 I love helping people because it makes me happy and i would love to do that in large scale.<br>
-:smiley::smiley::smiley: happiness  === Unlimited
+:smiley::smiley::smiley: Happiness === Unlimited +++
 <br>
 
 **Find me Interesting?**<br>
