@@ -16,7 +16,7 @@ I love helping people because it makes me happy and i would love to do that on a
 **Find me Interesting?**<br>
 Say Hi to me on [LinkedIn](https://www.linkedin.com/in/amarjit-pheiroijam-234bba166/)<br>
 
-- 🔭  I’m currently working as Software Engineer Intern at Addble Solution<br>
+- 🔭  I’m currently working as Software Engineer Intern at Addble<br>
 - 🌱  I’m currently learning Data Structure & React <br>
 - 🤔  I’m looking for help to improve my problem solving skill<br>
 - 💬  Ask me about Web Technologies<br>
