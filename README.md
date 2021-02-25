@@ -7,9 +7,9 @@
 **Amarjit-ph/Amarjit-ph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 Here are some ideas to get you started: 
 -->
-My Journey begins with me being a computer curious kid to a Aspiring **Full Stack Developer**,<br>
+My Journey begins with me being a computer curious kid to an Aspiring **Full Stack Developer**,<br>
 I'm always ready to learn new things and love exploring the world of Science and Technology<br>
-I love helping people because it makes me happy and i would love to do that in large scale.<br>
+I love helping people because it makes me happy and i would love to do that on a larger scale.<br>
 :smiley::smiley::smiley: Happiness === Unlimited +++
 <br>
 
