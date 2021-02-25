@@ -19,7 +19,7 @@ Say Hi to me on [LinkedIn](https://www.linkedin.com/in/amarjit-pheiroijam-234bba
 - 🔭  I’m currently working as Software Engineer Intern at Addble<br>
 - 🌱  I’m currently learning Data Structure & React <br>
 - 🤔  I’m looking for help to improve my problem solving skill<br>
-- 💬  Ask me about Web Technologies<br>
+- 💬  Lets talk about Web Technologies<br>
 - :e-mail: Reach me : [Amarjitp9@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=Amarjitp9@gmail.com)<br>
 
 I'm not going to lie to you :no_good: <br>
