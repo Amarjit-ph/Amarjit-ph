@@ -1,7 +1,7 @@
 ### Hi there ! 👋  It's your boy, Amarjit Pheiroijam<br>
 <br>
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/smilegupta)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Amarjit-ph)
 
 <!--
 **Amarjit-ph/Amarjit-ph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
