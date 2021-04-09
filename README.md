@@ -1,4 +1,4 @@
-### Hi there ! 👋  It's your boy, Amarjit Pheiroijam<br>
+### Hi there ! 👋  Im Amarjit Pheiroijam<br>
 <br>
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Amarjit-ph)
