@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Amarjit-ph/static/js/main.5b227a86.chunk.js",
+    "main.js.map": "/Amarjit-ph/static/js/main.5b227a86.chunk.js.map",
+    "runtime-main.js": "/Amarjit-ph/static/js/runtime-main.73e600bf.js",
+    "runtime-main.js.map": "/Amarjit-ph/static/js/runtime-main.73e600bf.js.map",
+    "static/js/2.dbba4460.chunk.js": "/Amarjit-ph/static/js/2.dbba4460.chunk.js",
+    "static/js/2.dbba4460.chunk.js.map": "/Amarjit-ph/static/js/2.dbba4460.chunk.js.map",
+    "index.html": "/Amarjit-ph/index.html",
+    "static/js/2.dbba4460.chunk.js.LICENSE.txt": "/Amarjit-ph/static/js/2.dbba4460.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73e600bf.js",
+    "static/js/2.dbba4460.chunk.js",
+    "static/js/main.5b227a86.chunk.js"
+  ]
+}
