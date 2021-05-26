@@ -13,9 +13,6 @@ I love helping people because it makes me happy and i would love to do that on a
 Happiness :smiley::smiley::smiley: && Satisfaction ++
 <br>
 
-**Find me Interesting?**<br>
-Say Hi to me on [LinkedIn](https://www.linkedin.com/in/amarjit-pheiroijam-234bba166/)<br>
-
 - 🔭  I’m currently working on React<br>
 - 🌱  I’m currently learning Data Structure & React <br>
 - 🤔  I’m looking for help to improve my problem solving skill<br>
@@ -28,5 +25,7 @@ Who doesn't believe in climate change :earth_africa: :fire: :sos: <br>
 Lets do something and Save our Plant! :sunglasses:
 
 <br>
+**Find me Interesting?**<br>
+Say Hi to me on [LinkedIn](https://www.linkedin.com/in/amarjit-pheiroijam-234bba166/)<br>
 
 Peace! :peach: :v:
