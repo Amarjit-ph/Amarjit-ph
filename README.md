@@ -22,7 +22,7 @@ Happiness :smiley::smiley::smiley: && Satisfaction ++
 I'm not going to lie to you :no_good: <br>
 There's so many people out there :couple: <br>
 Who doesn't believe in climate change :earth_africa: :fire: :sos: <br>
-Lets do something and Save our Plant! :sunglasses:
+Lets do something and Save our Planet! :sunglasses:
 
 **Find me Interesting?**<br>
 Say Hi to me on [LinkedIn](https://www.linkedin.com/in/amarjit-pheiroijam-234bba166/)<br>
