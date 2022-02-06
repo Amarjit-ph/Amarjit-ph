@@ -2,7 +2,6 @@
 
 Welcome to my Github Profile !
 <p align="left">
-
   <a href="https://github.com/Amarjit-ph">
     <img src="https://img.shields.io/github/followers/Amarjit-ph?style=social"/>
   </a>
@@ -10,7 +9,7 @@ Welcome to my Github Profile !
     <img alt="Read the Docs" src="https://img.shields.io/github/stars/Amarjit-ph?style=social">
   </a>
   <img src="https://komarev.com/ghpvc/?username=Amarjit-ph&label=Profile+views"/>
-  </p>
+</p>
 
 ## I am Amarjit Pheiroijam,
 
@@ -33,10 +32,12 @@ I always love to learn new things and exploring the world of Science and Technol
 - 🤔  I’m looking for help to improve my problem solving skill<br>
 - 💬  Lets talk about Web3<br>
 
-
 <br>
+<h2>Projects</h2>
+<a href="https://expensify-three.vercel.app/" target="_blank"><b>Expensify</b> - Web Application for Controlling & Monitoring your Expenses</a>
 
-
+<h2>Mini Projects</h2>
+<a href="https://coin-iota.vercel.app/" target="_blank"><b>Coin</b> - A light weight Cryptocurrency Screening Website for Developers</a>
 
 <h2>Technologies </h2>
 
