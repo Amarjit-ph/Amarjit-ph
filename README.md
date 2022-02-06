@@ -28,10 +28,10 @@ I always love to learn new things and exploring the world of Science and Technol
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭  I’m currently working on Flutter<br>
-- 🌱  I’m currently learning Data Structure<br>
+- 🔭  I’m currently working as Fullstack<br>
+- 🌱  I’m currently learning Go<br>
 - 🤔  I’m looking for help to improve my problem solving skill<br>
-- 💬  Lets talk about Web Technologies<br>
+- 💬  Lets talk about Web3<br>
 
 
 <br>
