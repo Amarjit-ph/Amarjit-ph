@@ -24,14 +24,13 @@ An Average software engineer with excellent problem-solving skills and a team pl
 
 I always love to learn new things and exploring the world of Science and Technology<br>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
 🔭  I’m currently working as Front End Developer<br>
 🌱  I’m currently learning Go<br>
 🤔  Always looking to learn new things<br>
 💬  Lets talk about Web3<br>
-
 <br>
 <h2>Projects</h2>
 <a href="https://expensify-three.vercel.app/" target="_blank"><b>Expensify</b> - Web Application for Controlling & Monitoring your Expenses</a>
