@@ -29,7 +29,7 @@ I always love to learn new things and exploring the world of Science and Technol
 
 🔭  I’m currently working as Front End Developer<br>
 🌱  I’m currently learning Go<br>
-🤔  I’m always looking for help to improve my problem solving skill<br>
+🤔  Always looking to learn new things<br>
 💬  Lets talk about Web3<br>
 
 <br>
