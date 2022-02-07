@@ -24,7 +24,7 @@ An Average software engineer with excellent problem-solving skills and a team pl
 
 I always love to learn new things and exploring the world of Science and Technology<br>
 
-<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
 🔭  I’m currently working as Front End Developer<br>
