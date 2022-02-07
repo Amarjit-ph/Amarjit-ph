@@ -37,7 +37,8 @@ I always love to learn new things and exploring the world of Science and Technol
 <a href="https://expensify-three.vercel.app/" target="_blank"><b>Expensify</b> - Web Application for Controlling & Monitoring your Expenses</a>
 
 <h2>Mini Projects</h2>
-<a href="https://coin-iota.vercel.app/" target="_blank"><b>Coin</b> - A light weight Cryptocurrency Screening Website for Developers</a>
+<a href="https://coin-iota.vercel.app/" target="_blank"><b>Coin</b> - A light weight cryptocurrency screening website for developers</a><br/>
+<a href="http://indecision-ten.vercel.app/" target="_blank"><b>Indecision</b> - A simple react application to deal with indecision</a>
 
 <h2>Technologies </h2>
 
