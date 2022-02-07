@@ -33,12 +33,12 @@ I always love to learn new things and exploring the world of Science and Technol
 💬  Lets talk about Web3<br>
 <br>
 <h2>Projects</h2>
-<a href="https://expensify-three.vercel.app/" target="_blank"><b>Expensify</b> - Web Application for Controlling & Monitoring your Expenses</a>
+1. <a href="https://expensify-three.vercel.app/" target="_blank"><b>Expensify</b> - Web Application for Controlling & Monitoring your Expenses</a>
 
 <h2>Mini Projects</h2>
-<a href="https://hangout-nine.vercel.app/"><b>Hangout</b> - Chat room built using Socket.IO and React</a>
-<a href="https://coin-iota.vercel.app/" target="_blank"><b>Coin</b> - A light weight cryptocurrency screening website for developers</a><br/>
-<a href="http://indecision-ten.vercel.app/" target="_blank"><b>Indecision</b> - A simple react application to deal with indecision</a>
+1. <a href="https://hangout-nine.vercel.app/"><b>Hangout</b> - Chat room built using Socket.IO and React</a><br/>
+2. <a href="https://coin-iota.vercel.app/" target="_blank"><b>Coin</b> - A light weight cryptocurrency screening website for developers</a><br/>
+3. <a href="http://indecision-ten.vercel.app/" target="_blank"><b>Indecision</b> - A simple react application to deal with indecision</a>
 
 <h2>Technologies </h2>
 
