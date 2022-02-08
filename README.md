@@ -157,3 +157,7 @@ I always love to learn new things and exploring the world of Science and Technol
     </td>
   </tr>
 </table>
+<br/>
+<br/>
+<p>Thank you for visiting ! <br/>
+Have a great Day🙂 </p>
