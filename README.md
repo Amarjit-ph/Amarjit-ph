@@ -51,12 +51,7 @@ I always love to learn new things and exploring the world of Science and Technol
       </a>
       <br>C++
     </td>
-  <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://egghead.io/_next/image?url=https%3A%2F%2Fd2eip9sf3oo6c2.cloudfront.net%2Ftags%2Fimages%2F000%2F001%2F227%2Fsquare_64%2Fdart-logo.png&w=64&q=100" width="48" height="48" alt="C#" />
-      </a>
-      <br>Dart
-    </td>
+  
   <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
@@ -74,6 +69,12 @@ I always love to learn new things and exploring the world of Science and Technol
         <img src="./img/react-original.svg" width="48" height="48" alt="React" />
       </a>
       <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://egghead.io/_next/image?url=https%3A%2F%2Fd2eip9sf3oo6c2.cloudfront.net%2Ftags%2Fimages%2F000%2F001%2F227%2Fsquare_64%2Fdart-logo.png&w=64&q=100" width="48" height="48" alt="C#" />
+      </a>
+      <br>Dart
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
