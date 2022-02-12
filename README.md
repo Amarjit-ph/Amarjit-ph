@@ -39,7 +39,7 @@ I always love to learn new things and exploring the world of Science and Technol
 1. <a href="https://market-taupe.vercel.app/"><b>Market</b> - An E-Commerce with react-redux to understand the working of redux and its architecture.<br/>
 2. <a href="https://hangout-zeta.vercel.app/"><b>Hangout</b> - Chat room built using Socket.IO and React</a><br/>
 3. <a href="https://coin-iota.vercel.app/" target="_blank"><b>Coin</b> - A light weight cryptocurrency screening website for developers</a><br/>
-. <a href="http://indecision-ten.vercel.app/" target="_blank"><b>Indecision</b> - A simple react application to deal with indecision</a>
+4. <a href="http://indecision-ten.vercel.app/" target="_blank"><b>Indecision</b> - A simple react application to deal with indecision</a>
 
 <h2>Technologies </h2>
 
