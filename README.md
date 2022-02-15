@@ -49,12 +49,9 @@ I love technology & Always learning new things and exploring the world of Scienc
 - ⚡Powered by : **Coffie & Redbull**
 - 🦜 Moto : **Never Stop Learning**
 <br>
-
 ## Technologies 💾
-Tools, languages, and other things that I like to work with.
-
+Tools, languages, and Techonologies that I like to work with.
 <br>
-
 <table>
   <tr>
   <td align="center" width="96">
