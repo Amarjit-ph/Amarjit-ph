@@ -32,6 +32,8 @@ I always love to learn new things and exploring the world of Science and Technol
 🤔  Always looking to learn new things<br>
 💬  Lets talk about Web3<br>
 <br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amarjit-ph&show_icons=true&locale=en&layout=compact" alt="amarjit-ph" /></p>
+
 <h2>Projects</h2>
 1. <a href="https://expensify-three.vercel.app/" target="_blank"><b>Expensify</b> - Web Application for Controlling & Monitoring your Expenses</a><br/>
 2. <a href="https://market-taupe.vercel.app/"><b>Market</b> - An E-Commerce with react-redux to understand the working of redux and its architecture.</a><br/>
@@ -42,9 +44,12 @@ I always love to learn new things and exploring the world of Science and Technol
 3. <a href="http://indecision-ten.vercel.app/" target="_blank"><b>Indecision</b> - A simple react application to deal with indecision</a>
 
 <h2>Technologies </h2>
-> Tools, languages, and other things that I like to work with. <br/><br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amarjit-ph&show_icons=true&locale=en&layout=compact" alt="amarjit-ph" /></p>
+> Tools, languages, and other things that I like to work with.
+<br/><br/>
+
 <br/><br/><br/>
+<br/><br/><br/>
+
 <table>
   <tr>
   <td align="center" width="96">
@@ -164,7 +169,7 @@ I always love to learn new things and exploring the world of Science and Technol
 
 
 
-
+## Github Statistics
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amarjit-ph&show_icons=true&locale=en" alt="amarjit-ph" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amarjit-ph&" alt="amarjit-ph" /></p>
 
