@@ -30,8 +30,6 @@ A software engineer with excellent problem-solving skills and a team player with
 <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 </div>
-<br/>
-
 
 ## Profile Summary 🍃
 I'm a Software Engineer currently working in business management startup with a degree in <b>Computer Science Engineering</b> from Chandigarh University.
