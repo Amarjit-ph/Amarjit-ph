@@ -42,11 +42,11 @@ And [Certified](https://www.credential.net/cbb4d9c9-0b3d-44a0-b134-cac16e7074c7#
 <br>
 I love technology & Always learning new things and exploring the world of Science and Technology<br>
 
-- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 as **Full-Stack Developer**
-- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Go & Google Cloud Platform**
-- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 Daily Improvement of **Data Structure & Algorithm**
-- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/Amarjit-ph/Amarjit-ph/issues/1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
-- ⚡Powered by : **Coffie & Redbull**
+- 🔭 I'm currently working as **Full-Stack Developer**
+- 🌱 I'm currently learning **Go & Google Cloud Platform**
+- 👯 I'm looking to collaborate on daily improvement of **Data Structure & Algorithm**
+- 💬 Ask Me About Anything [here](https://github.com/Amarjit-ph/Amarjit-ph/issues/1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
+- ⚡ Powered by : **Coffie & Redbull**
 - 🦜 Moto : **Never Stop Learning**
 
 ## Technologies 💾
