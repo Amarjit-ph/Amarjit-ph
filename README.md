@@ -1,7 +1,16 @@
-# Hi There !<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+<h1 align="center">
+    <img src="./Hello.gif" align="left" alt="Coder GIF" height=50 width=150>
+    &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+</h1>
+<br/>
 
-Welcome to my Github Profile !
-<p align="left">
+<img src="./header.png">
+
+<div align="center">
+<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Amarjit Pheiroijam !</h1>
+
+<b>Welcome to my Github Profile !</b>
+<p align="center">
   <a href="https://github.com/Amarjit-ph">
     <img src="https://img.shields.io/github/followers/Amarjit-ph?style=social"/>
   </a>
@@ -11,44 +20,40 @@ Welcome to my Github Profile !
   <img src="https://komarev.com/ghpvc/?username=Amarjit-ph&label=Profile+views"/>
 </p>
 
-## I am Amarjit Pheiroijam,
+A software engineer with excellent problem-solving skills and a team player with hands-on experience in different levels of design & developments of Software Product,<br>Energetic & passionate about developing products that empower and provide great value to people's lives.
 
-An Average software engineer with excellent problem-solving skills and a team player with hands-on experience in different levels of development. Passionate about developing products that add value to people's lives.
+<b> CONNECT WITH ME</b>
 
 <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=Amarjitp9@gmail.com" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/amarjit-pheiroijam-234bba166/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/AmarjitPh_" target="_blank">
 <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
+</div>
+<br/>
+
+
+## Profile Summary 🍃
+I'm a Software Engineer currently working in business management startup with a degree in <b>Computer Science Engineering</b> from Chandigarh University.
+<br><br>
+I have worked with multiple early stage start-ups in my carrier in Health-Technology, Food & Retail domains.
+And [Certified](https://www.credential.net/cbb4d9c9-0b3d-44a0-b134-cac16e7074c7#gs.p5gscc) with StartUp India - Invest India.
+<br>
+<br>
+I love technology & Always learning new things and exploring the world of Science and Technology<br>
+
+- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 as **Full-Stack Developer**
+- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Go & Google Cloud Platform**
+- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 Daily Improvement of **Data Structure & Algorithm**
+- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/Amarjit-ph/Amarjit-ph/issues/1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
+- ⚡Powered by : **Coffie & Redbull**
+- 🦜 Moto : **Never Stop Learning**
 <br>
 
-I always love to learn new things and exploring the world of Science and Technology<br>
+## Technologies 💾
+Tools, languages, and other things that I like to work with.
 
-<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-
-🔭  I’m currently working in start-up i wear different hats<br>
-🌱  I’m currently learning Go<br>
-🤔  Always looking to learn new things<br>
-💬  Lets talk about Web3<br>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amarjit-ph&show_icons=true&locale=en&layout=compact" alt="amarjit-ph" /></p>
-
-<h2>Projects</h2>
-1. <a href="https://expensify-three.vercel.app/" target="_blank"><b>Expensify</b> - Web Application for Controlling & Monitoring your Expenses</a><br/>
-2. <a href="https://market-taupe.vercel.app/"><b>Market</b> - An E-Commerce with react-redux to understand the working of redux and its architecture.</a><br/>
-
-<h2>Mini Projects</h2>
-1. <a href="https://hangout-zeta.vercel.app/"><b>Hangout</b> - Chat room built using Socket.IO and React</a><br/>
-2. <a href="https://coin-iota.vercel.app/" target="_blank"><b>Coin</b> - A light weight cryptocurrency screening website for developers</a><br/>
-3. <a href="http://indecision-ten.vercel.app/" target="_blank"><b>Indecision</b> - A simple react application to deal with indecision</a>
-
-<h2>Technologies </h2>
-> Tools, languages, and other things that I like to work with.
-<br/><br/>
-
-<br/><br/><br/>
-<br/><br/><br/>
 
 <table>
   <tr>
@@ -108,6 +113,7 @@ I always love to learn new things and exploring the world of Science and Technol
       <br>Sass
     </td>
   </tr>
+
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech" >
@@ -167,15 +173,34 @@ I always love to learn new things and exploring the world of Science and Technol
 </table>
 <br/>
 
+## Projects ⚒️
 
+1. <a href="https://expensify-three.vercel.app/" target="_blank"><b>Expensify</b> - Web Application for Controlling & Monitoring your Expenses</a><br/>
+2. <a href="https://market-taupe.vercel.app/"><b>Market</b> - An E-Commerce with react-redux to understand the working of redux and its architecture.</a><br/>
 
-## Github Statistics
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amarjit-ph&show_icons=true&locale=en" alt="amarjit-ph" /></p>
+Mini Projects 
+1. <a href="https://hangout-zeta.vercel.app/"><b>Hangout</b> - Chat room built using Socket.IO and React</a><br/>
+2. <a href="https://coin-iota.vercel.app/" target="_blank"><b>Coin</b> - A light weight cryptocurrency screening website for developers</a><br/>
+3. <a href="http://indecision-ten.vercel.app/" target="_blank"><b>Indecision</b> - A simple react application to deal with indecision</a>
+
+## Github Statistics 📈
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=amarjit-ph&show_icons=true&locale=en&layout=compact" alt="amarjit-ph" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=amarjit-ph&show_icons=true&locale=en" alt="amarjit-ph" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amarjit-ph&" alt="amarjit-ph" /></p>
 
+<h3 align="left">Support:</h3>
 
-<h4 align="left">Support:</h4>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/amarjitph"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="https://www.buymeacoffee.com/amarjitph" /></a><a href="https://ko-fi.com/https://ko-fi.com/amarjitpheiroijam"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height=40" width="150" alt="https://ko-fi.com/amarjitpheiroijam" /></a></p>
-<br/><br/><br/>
- <b>Thank you for visiting !</b><br/>
- <b>Hope your day is as awesome as you are ! ❤️</b>
+<a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/amarjitph"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="https://www.buymeacoffee.com/amarjitph" /></a>
+
+<br>
+<br>
+
+<!-- <a href="https://ko-fi.com/https://ko-fi.com/amarjitpheiroijam"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height=40" width="150" alt="https://ko-fi.com/amarjitpheiroijam" /></a> -->
+<br>
+
+<b>Thank you for visiting !</b><br/>
+<b>Hope your day is as awesome as you are ! ❤️</b>
+  
+  
+  
