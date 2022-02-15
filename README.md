@@ -172,5 +172,5 @@ I always love to learn new things and exploring the world of Science and Technol
 <h4 align="left">Support:</h4>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/amarjitph"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="https://www.buymeacoffee.com/amarjitph" /></a><a href="https://ko-fi.com/https://ko-fi.com/amarjitpheiroijam"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height=40" width="150" alt="https://ko-fi.com/amarjitpheiroijam" /></a></p>
 <br/><br/><br/>
-<b>Thank you for visiting !</b>
-Have a great Day🙂 </b>
+ <b>Thank you for visiting !</b><br/>
+ <b>Hope your day is as awesome as you are ! ❤️</b>
