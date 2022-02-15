@@ -27,7 +27,7 @@ I always love to learn new things and exploring the world of Science and Technol
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-🔭  I’m currently working as Front End Developer<br>
+🔭  I’m currently working in start-up i wear different hats<br>
 🌱  I’m currently learning Go<br>
 🤔  Always looking to learn new things<br>
 💬  Lets talk about Web3<br>
@@ -42,8 +42,9 @@ I always love to learn new things and exploring the world of Science and Technol
 3. <a href="http://indecision-ten.vercel.app/" target="_blank"><b>Indecision</b> - A simple react application to deal with indecision</a>
 
 <h2>Technologies </h2>
-
-> Tools, languages, and other things that I like to work with.
+> Tools, languages, and other things that I like to work with. <br/><br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amarjit-ph&show_icons=true&locale=en&layout=compact" alt="amarjit-ph" /></p>
+<br/><br/><br/>
 <table>
   <tr>
   <td align="center" width="96">
@@ -160,5 +161,16 @@ I always love to learn new things and exploring the world of Science and Technol
   </tr>
 </table>
 <br/>
-<p>Thank you for visiting ! <br/>
-Have a great Day🙂 </p>
+
+
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amarjit-ph&show_icons=true&locale=en" alt="amarjit-ph" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amarjit-ph&" alt="amarjit-ph" /></p>
+
+
+<h4 align="left">Support:</h4>
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/amarjitph"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="https://www.buymeacoffee.com/amarjitph" /></a><a href="https://ko-fi.com/https://ko-fi.com/amarjitpheiroijam"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height=40" width="150" alt="https://ko-fi.com/amarjitpheiroijam" /></a></p>
+<br/><br/><br/>
+<b>Thank you for visiting !</b>
+Have a great Day🙂 </b>
