@@ -20,7 +20,7 @@
   <img src="https://komarev.com/ghpvc/?username=Amarjit-ph&label=Profile+views"/>
 </p>
 
-A software engineer with excellent problem-solving skills and a team player with hands-on experience in different levels of design & development of Software Products,<br>Energetic & passionate about developing products that empower people and provide great value to people's lives.
+A Software Engineer with excellent problem-solving skills and a team player with hands-on experience in different levels of design & development of Software Products,<br>Energetic & passionate about developing products that empower people and provide great value to people's lives.
 
 <b> CONNECT WITH ME</b>
 
