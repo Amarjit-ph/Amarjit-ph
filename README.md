@@ -32,7 +32,7 @@ A Software Engineer with excellent problem-solving skills and a team player with
 </div>
 
 ## Profile Summary 🍃
-I'm a Software Engineer currently working in business management startup with a degree in <b>Computer Science Engineering</b> from Chandigarh University.
+I'm a Software Engineer currently working in business management startup with a degree in <b>Computer Science Engineering</b>
 <br><br>
 I have worked with multiple early stage start-ups in my carrier in Health-Technology, Food & Retail domains.
 And [Certified](https://www.credential.net/cbb4d9c9-0b3d-44a0-b134-cac16e7074c7#gs.p5gscc) with StartUp India by Government of India - Invest India.
