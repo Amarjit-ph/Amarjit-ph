@@ -44,7 +44,7 @@ I love technology & Always learning new things and exploring the world of Scienc
 - 🌱 I'm currently learning **Go & Google Cloud Platform**
 - 👯 I'm looking to collaborate on daily improvement of **Data Structure & Algorithm**
 - 💬 Ask Me About Anything [here](https://github.com/Amarjit-ph/Amarjit-ph/issues/1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
-- ⚡ Powered by : **Coffee & Redbull**
+- ⚡ Powered by : **Tea & Redbull**
 - 🦜 Moto : **Never Stop Learning**
 
 ## Technologies 💾
