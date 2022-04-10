@@ -168,6 +168,9 @@ Tools, languages, and Techonologies that I like to work with.
 </table>
 
 ## Projects ⚒️
+<a href="https://github.com/Amarjit-ph/bookmark"><b>Bookmar</b> - Your interactive self-hosted bookmark manager for daily traversing of websites.
+Free and open source.</a><br/>
+
 
 1. <a href="https://expensify-three.vercel.app/" target="_blank"><b>Expensify</b> - Web Application for Controlling & Monitoring your Expenses</a><br/>
 2. <a href="https://market-taupe.vercel.app/"><b>Market</b> - An E-Commerce with react-redux to understand the working of redux and its architecture.</a><br/>
