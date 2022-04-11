@@ -20,7 +20,7 @@
   <img src="https://komarev.com/ghpvc/?username=Amarjit-ph&label=Profile+views"/>
 </p>
 
-A Software Engineer with excellent problem-solving skills and a team player with hands-on experience in different levels of design & development of Software Products,<br>Energetic & passionate about developing products that empower people and provide great value to people's lives.
+A Software Engineer with excellent problem-solving skills and a team player with hands-on experience in different levels of design and development of data-driven software products, Highly passionate about developing products that empower people with great user empathy.
 
 <b> CONNECT WITH ME</b>
 
@@ -32,10 +32,11 @@ A Software Engineer with excellent problem-solving skills and a team player with
 </div>
 
 ## Profile Summary 🍃
-I'm a Software Engineer currently working in business management startup with a degree in <b>Computer Science Engineering.</b>
-<br><br>
-I have worked with multiple early stage start-ups in my carrier in Health-Technology, Food & Retail domains.
-And [Certified](https://www.credential.net/cbb4d9c9-0b3d-44a0-b134-cac16e7074c7#gs.p5gscc) with StartUp India by Government of India - Invest India.
+
+Currently working as a Software Engineer in a business management startup with a demonstrated history of working in the internet industry start-up companies. Experienced with multiple startups including Health-tech, food, and Retail domains, worked closely with founders and seniors with huge experience in the software industry within a small team, Excellent problem-solving skills, and a team player with hands-on experience in different levels of design and development of data-driven software products, Interested in implementing innovative solutions for challenging tasks, love learning new tools and technologies and staying updated with the latest technology stacks, Highly passionate about developing products that empower people with great user empathy.
+
+Completed StartUp India Program by Government of India - Invest India.<br>
+[Link to Certificate](https://www.credential.net/cbb4d9c9-0b3d-44a0-b134-cac16e7074c7#gs.p5gscc)
 <br>
 <br>
 I love technology & Always learning new things and exploring the world of Science and Technology<br>
