@@ -169,7 +169,7 @@ Tools, languages, and Techonologies that I like to work with.
 </table>
 
 ## Projects ⚒️
-<a href="https://github.com/Amarjit-ph/bookmark"><b>Bookmar</b> - Your interactive self-hosted bookmark manager for daily traversing of websites.
+<a href="https://github.com/Amarjit-ph/bookmark"><b>Bookmark</b> - Your interactive self-hosted bookmark manager for daily traversing of websites.
 Free and open source.</a><br/>
 
 
