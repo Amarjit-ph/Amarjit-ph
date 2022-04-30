@@ -2,11 +2,9 @@
 
 ###### **A bit about myself (\***duped from my Linkedin profile**\*):**
 
-I'm software engineer currently working at @Addble, A business management startup dealing with software such as GST Billing, POS for Retail, Wholesales, Cafes & Restaurants.
+I'm software engineer currently working at @Addble, A business management startup dealing with software such as GST Billing, POS for Retail, Wholesales, Cafes & Restaurants.I have experience with multiple startups including Health-tech, food & worked closely with founders and seniors with huge experience in the software industry within a small startup team, I always have a creative approach to every problem which enhances my problem-solving skills.
 
-I have experience with multiple startups including Health-tech, food & worked closely with founders and seniors with huge experience in the software industry within a small startup team, I always have a creative approach to every problem which enhances my problem-solving skills.
-
-I'm also a team player with hands-on experience in different levels of design and development of data-driven software products, really enjoy implementing innovative solutions for challenging tasks and highly passionate about developing products that empower people with great user empathy.
+I'm also a team player with hands-on experience in different levels of design and development of data-driven software products,I really enjoy implementing innovative solutions for challenging tasks and passionate about developing products with great user empathy.
 
 ##### [Certified StartUp India Program by Government of India - Invest India.](https://www.credential.net/cbb4d9c9-0b3d-44a0-b134-cac16e7074c7#gs.p5gscc)<br>
 
