@@ -1,4 +1,4 @@
-# Hello There ! I'm Amarjit Pheiroijam
+<img src="./Banner.png" width=100%>
 
 ###### **A bit about myself (\***duped from my Linkedin profile**\*):**
 
