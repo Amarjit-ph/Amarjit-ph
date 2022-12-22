@@ -4,8 +4,6 @@
 
 Im currently working as Software engineer in Juntrax An HRMS and professional service automation solution in one platform, configured for global, which is serving startups & MSME companies around the world.
 
-I previous worked as a Software Engineer @Addble, A business management startup dealing with software such as GST Billing, and POS for Retail, Wholesales, Cafes & Restaurants. 
-
 I have a proven records in delivering multiple end to end software products with startups, which results in operation expansions and hiring more people in a health technology space, I have delivered a project which bring recurring revenue from medium to large restaurants in my current position and worked with multiple features which improve workflow and onboarding restaurants into the platform. I have also worked with multiple startups including Health-tech, food & Retails etc. I have worked closely with founders and seniors with huge experience in the software industry within a small startup team.
 
 I always have a creative approach to every problem which enhances my problem-solving skills, and I'm also a team player with hands-on experience in different levels of design and development of data-driven software products, I'm really passionate about developing products that empower people with great users empathy.
