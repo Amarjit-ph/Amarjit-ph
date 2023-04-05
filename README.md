@@ -1,6 +1,6 @@
 <img src="./Banner1_digital_art_x4.jpg" width=100%>
 
-###### **A bit about myself (\***duped from my Linkedin profile**\*):**
+###### **A bit about myself : **
 
 Im currently working as Software engineer in Juntrax. A Human Resources Management System and professional service automation solution in one platform, configured for global, which is serving startups & MSME companies around the world.
 
@@ -8,7 +8,7 @@ I have a proven records in delivering multiple end to end software products with
 
 I always have a creative approach to every problem which enhances my problem-solving skills, and I'm also a team player with hands-on experience in different levels of design and development of data-driven software products, I'm really passionate about developing products that empower people with great users empathy.
 
-##### [Certified with StartUp India Program by Government of India - Invest India.](https://www.credential.net/cbb4d9c9-0b3d-44a0-b134-cac16e7074c7#gs.p5gscc)<br>
+##### [StartUp India Program by Government of India - Invest India.](https://www.credential.net/cbb4d9c9-0b3d-44a0-b134-cac16e7074c7#gs.p5gscc)<br>
 
 📌DevOps - Github, Jira, Bitbucket, Docker, Google Cloud Platform<br>
 📌Back‑end - Nodejs, Express, Cloud functions, MongoDB, Firebase, MySql, REST API<br>
