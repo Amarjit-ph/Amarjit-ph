@@ -1,12 +1,12 @@
 <img src="./Banner1_digital_art_x4.jpg" width=100%>
 
-###### **A bit about myself : **
+###### **A bit about myself: **
 
-Im currently working as Software engineer in Juntrax. A Human Resources Management System and professional service automation solution in one platform, configured for global, which is serving startups & MSME companies around the world.
+Im currently working as a Software engineer in Juntrax. A Human Resources Management System and professional service automation solution in one platform, configured for global, which is serving startups & MSME companies around the world.
 
-I have a proven records in delivering multiple end to end software products with startups, which results in operation expansions and hiring more people in a health technology space, I have delivered a project which bring recurring revenue from medium to large restaurants in my current position and worked with multiple features which improve workflow and onboarding restaurants into the platform. I have also worked with multiple startups including Health-tech, food & Retails etc. I have worked closely with founders and seniors with huge experience in the software industry within a small startup team.
+I have a proven record in delivering multiple end-to-end software products with startups, which results in operation expansions and hiring more people in a health technology space, I have delivered a project which bring recurring revenue from medium to large restaurants and worked with multiple features which improve workflow and onboarding restaurants into the platform. I have also worked with multiple startups including Health-tech, food & retail, etc. I have worked closely with founders and seniors with huge experience in the software industry within a small startup team.
 
-I always have a creative approach to every problem which enhances my problem-solving skills, and I'm also a team player with hands-on experience in different levels of design and development of data-driven software products, I'm really passionate about developing products that empower people with great users empathy.
+I always have a creative approach to every problem which enhances my problem-solving skills, and I'm also a team player with hands-on experience in different levels of design and development of data-driven software products, I'm really passionate about developing products that empower people with great user empathy.
 
 ##### [StartUp India Program by Government of India - Invest India.](https://www.credential.net/cbb4d9c9-0b3d-44a0-b134-cac16e7074c7#gs.p5gscc)<br>
 
