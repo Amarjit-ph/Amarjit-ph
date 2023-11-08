@@ -2,11 +2,11 @@
 
 ###### **A bit about myself: **
 
-Im currently working as a Software engineer in Juntrax. A Human Resources Management System and professional service automation solution in one platform, configured for global, which is serving startups & MSME companies around the world.
+I currently hold a role as a Software Engineer at Juntrax, a company that offers a comprehensive platform combining Human Resources Management System and professional service automation solutions, with global configuration capabilities. Our platform caters to startups and MSME companies worldwide.
 
 I have a track record of successfully delivering numerous comprehensive software products for startups in the health technology sector. These projects have not only led to operational growth but also the expansion of team sizes. One particular project I spearheaded generated recurring revenue from medium to large restaurants by implementing various features that streamlined workflows and facilitated the onboarding process onto our platform. In addition, I've collaborated with startups across diverse industries, including health technology, food, and retail, and have had the privilege of working closely with seasoned founders and senior professionals in the software industry as part of a tight-knit startup team.
 
-I always have a creative approach to every problem which enhances my problem-solving skills, and I'm also a team player with hands-on experience in different levels of design and development of data-driven software products, I'm really passionate about developing products that empower people with great user empathy.
+I consistently approach problems with a creative mindset, which enriches my problem-solving abilities. I'm also a collaborative team player with practical experience in various aspects of designing and developing data-driven software products. My true passion lies in creating products that empower users, and I prioritize user empathy in my work.
 
 ##### [StartUp India Program by Government of India - Invest India.](https://www.credential.net/cbb4d9c9-0b3d-44a0-b134-cac16e7074c7#gs.p5gscc)<br>
 
