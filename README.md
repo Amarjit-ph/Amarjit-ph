@@ -13,7 +13,7 @@ I consistently approach problems with a creative mindset, which enriches my prob
 📌DevOps - Github, Jira, Bitbucket, Docker, Google Cloud Platform<br>
 📌Back‑end - Nodejs, Express, Cloud functions, MongoDB, Firebase, MySql, REST API<br>
 📌Front‑end - React, Flutter, Redux, HTML5, CSS, Tailwind, Material Design, Bootstrap<br>
-📌Programming Langauge - C++, Javascript, Typescript, Dart<br>
+📌Langauge - C++, Javascript, Typescript, Dart<br>
 📌Documentation - Confluence, Postman, Draw.io<br>
 
 ###### **My favorite quote:**
