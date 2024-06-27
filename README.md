@@ -10,11 +10,10 @@ I consistently approach problems with a creative mindset, which enriches my prob
 
 ##### [StartUp India Program by Government of India - Invest India.](https://www.credential.net/cbb4d9c9-0b3d-44a0-b134-cac16e7074c7#gs.p5gscc)<br>
 
-📌DevOps - Github, Jira, Bitbucket, Docker, Google Cloud Platform<br>
-📌Back‑end - Nodejs, Express, Cloud functions, MongoDB, Firebase, MySql, REST API<br>
-📌Front‑end - React, Flutter, Redux, HTML5, CSS, Tailwind, Material Design, Bootstrap<br>
-📌Langauge - C++, Javascript, Typescript, Dart<br>
-📌Documentation - Confluence, Postman, Draw.io<br>
+📌 Infrastructure & Operations - Github, Jira, Bitbucket, Docker, Google Cloud Platform<br>
+📌 Logic & Storage - Nodejs, Express, Cloud functions, MongoDB, Firebase, MySql, REST API<br>
+📌 Visual Delivery  - React, Flutter, Redux, HTML5, CSS, Tailwind, Material Design, Bootstrap<br>
+📌 Documentation - Confluence, Postman, Draw.io<br>
 
 ###### **My favorite quote:**
 
