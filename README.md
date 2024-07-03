@@ -1,4 +1,4 @@
-<img src="./img/3.png" width=100%>
+<img src="./img/4.png" width=100%>
 <img src="./img/2.png" width=100%>
 
 ###### **A bit about myself: **
@@ -9,12 +9,12 @@ I have a track record of successfully delivering numerous comprehensive software
 
 I consistently approach problems with a creative mindset, which enriches my problem-solving abilities. I'm also a collaborative team player with practical experience in various aspects of designing and developing data-driven software products. My true passion lies in creating products that empower users, and I prioritize user empathy in my work.
 
-##### [StartUp India Program by Government of India - Invest India.](https://www.credential.net/cbb4d9c9-0b3d-44a0-b134-cac16e7074c7#gs.p5gscc)<br>
+###### **My Tech Stack & Tools:**
 
-📌 Infrastructure & Operations - Github, Jira, Bitbucket, Docker, Google Cloud Platform<br>
-📌 Logic & Storage - Nodejs, Express, Cloud functions, MongoDB, Firebase, MySql<br>
-📌 Visual Delivery  - React, Flutter, Redux, HTML5, CSS, Tailwind, Material Design, Bootstrap<br>
-📌 Documentation - Confluence, Postman, Draw.io<br>
+📌 **Infrastructure & Operations** - GitHub, Jira, Bitbucket, Docker, Google Cloud Platform  
+📌 **Logic & Storage** - Node.js, Express, Cloud Functions, MongoDB, Firebase, MySQL  
+📌 **Visual Delivery** - React, Flutter, Redux, HTML5, CSS, Tailwind, Material Design, Bootstrap  
+📌 **Documentation** - Confluence, Postman, Draw.io
 
 ###### **My favorite quote:**
 
