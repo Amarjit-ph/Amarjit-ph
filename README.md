@@ -2,13 +2,13 @@
 
 ###### **A bit about myself: **
 
-I currently hold a role as a Software Engineer at Juntrax, a company that offers a comprehensive platform combining Human Resources Management System and professional service automation solutions, with global configuration capabilities. Our platform caters to startups and MSME companies worldwide.
+I'm a Software Engineer at Juntrax, where we build HR and professional service automation solutions for startups and MSMEs worldwide.
 
-I have a track record of successfully delivering numerous comprehensive software products for startups in the health technology sector. These projects have not only led to operational growth but also the expansion of team sizes. One particular project I spearheaded generated recurring revenue from medium to large restaurants by implementing various features that streamlined workflows and facilitated the onboarding process onto our platform. In addition, I've collaborated with startups across diverse industries, including health technology, food, and retail, and have had the privilege of working closely with seasoned founders and senior professionals in the software industry as part of a tight-knit startup team.
+I love working with startups, especially in health tech, food, and retail sectors. I've led projects that drive growth and streamline operations, generating recurring revenue and improving workflows.
 
-I consistently approach problems with a creative mindset, which enriches my problem-solving abilities. I'm also a collaborative team player with practical experience in various aspects of designing and developing data-driven software products. My true passion lies in creating products that empower users, and I prioritize user empathy in my work.
+I thrive in collaborative environments and am passionate about creating user-centered products.
 
-###### **My Tech Stack & Tools:**
+<img src="./img/A2.png" width=100%>
 
 📌 **Infrastructure & Operations** - GitHub, Jira, Bitbucket, Docker, Google Cloud Platform  
 📌 **Logic & Storage** - Node.js, Express, Cloud Functions, MongoDB, Firebase, MySQL  
