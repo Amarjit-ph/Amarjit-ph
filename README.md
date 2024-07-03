@@ -2,11 +2,7 @@
 
 ###### **A bit about myself: **
 
-I'm a Software Engineer at Juntrax, where we build HR and professional service automation solutions for startups and MSMEs worldwide.
-
-I love working with startups, especially in health tech, food, and retail sectors. I've led projects that drive growth and streamline operations, generating recurring revenue and improving workflows.
-
-I thrive in collaborative environments and am passionate about creating user-centered products.
+I'm a Software Engineer at Juntrax, where we build HR and professional service automation solutions for startups and MSMEs worldwide.I love working with startups, especially in health tech, food, and retail sectors. I've led projects that drive growth and streamline operations, generating recurring revenue and improving workflows.I thrive in collaborative environments and am passionate about creating user-centered products.
 
 <img src="./img/A2.png" width=100%>
 
