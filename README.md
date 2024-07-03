@@ -10,6 +10,7 @@ I'm a Software Engineer at Juntrax, where we build HR and professional service a
 📌 **Visual Delivery** - React, Flutter, Redux, HTML5, CSS, Tailwind, Material Design, Bootstrap  
 📌 **Documentation** - Confluence, Postman, Draw.io
 
+<br/>
 <img src="./img/A3.png" width=100%>
 
 <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=Amarjitp9@gmail.com" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
