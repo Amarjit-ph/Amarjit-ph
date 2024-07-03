@@ -27,3 +27,5 @@ I consistently approach problems with a creative mindset, which enriches my prob
 <a href="https://twitter.com/AmarjitPh_" target="_blank">
 <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
+
+<img src="./img/5.png" width=100%>
