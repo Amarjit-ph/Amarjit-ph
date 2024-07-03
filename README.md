@@ -1,4 +1,4 @@
-<img src="./Banner1_digital_art_x4.jpg" width=100%>
+<img src="./img/1.png" width=100%>
 
 ###### **A bit about myself: **
 
