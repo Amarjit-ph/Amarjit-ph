@@ -1,3 +1,4 @@
+<img src="./img/3.png" width=100%>
 <img src="./img/2.png" width=100%>
 
 ###### **A bit about myself: **
