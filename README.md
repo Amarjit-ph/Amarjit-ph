@@ -8,7 +8,7 @@ I'm a full-time software engineer at Juntrax, where we build HR and professional
 📌 **Infrastructure & Operations** - GitHub, Jira, Bitbucket, Docker, AWS & Google Cloud Platform  
 📌 **Logic & Storage** - Node.js, Express, Cloud Functions, MongoDB, Firebase, MySQL  
 📌 **Visual Delivery** - React, Flutter, Redux, HTML5, CSS, Tailwind, Material Design, Bootstrap  
-📌 **Documentation** - Confluence, Postman, Draw.io
+📌 **Documentation** - Confluence, Postman, Draw.io & Lucid Chart
 
 <br/>
 <img src="./img/A3.png" width=100%>
