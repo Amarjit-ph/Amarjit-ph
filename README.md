@@ -1,7 +1,7 @@
 <img src="./img/Github.png" width=100%>
 <img src="./img/A1-V3.png" width=100%>
 
-I have professional experience of 4.2+ years of full‐stack development in startups. Involved in taking ownership of key modules from design to deployment, working closely with differents teams to ensure product success. Working effectively in fast‐paced environments and committed to delivering reliable, efficient solutions.
+<!--- I have professional experience of 4.2+ years of full‐stack development in startups. Involved in taking ownership of key modules from design to deployment, working closely with differents teams to ensure product success. Working effectively in fast‐paced environments and committed to delivering reliable, efficient solutions.
 
 <br/>
 <img src="./img/A2.png" width=100%>
@@ -22,3 +22,4 @@ I have professional experience of 4.2+ years of full‐stack development in star
 > The goal is not simply for you to cross the finish line, but to see how many people you can inspire to run with you.
 
 <img src="./img/5.png" width=100%>
+!--->
