@@ -1,7 +1,7 @@
 <img src="./img/Github.png" width=100%>
 <img src="./img/A1.png" width=100%>
 
-Experienced software engineer with 3.5+ years in full‐stack development. Involved in taking ownership of key modules from design to deployment, working closely with differents teams to ensure product success. Comfortable in fast‐paced startup environments and committed to delivering reliable, effective solutions.
+I have professional experience of 4+ years of full‐stack development in startups. Involved in taking ownership of key modules from design to deployment, working closely with differents teams to ensure product success. Comfortable in fast‐paced environments and committed to delivering reliable, effective solutions.
 
 <br/>
 <img src="./img/A2.png" width=100%>
