@@ -1,5 +1,28 @@
 <img src="./img/Github.png" width=100%>
+
+
+<!--
 <img src="./img/FinalA1.png" width=100%>
+
+-->
+
+
+<!-- Dark/Light Mode Support -->
+<picture>
+  <!-- Dark mode image -->
+  <source media="(prefers-color-scheme: dark)" srcset="./img/White-A1.png">
+  
+  <!-- Light mode image -->
+  <source media="(prefers-color-scheme: light)" srcset="./img/FinalA1.png">
+  
+  <!-- Fallback image -->
+  <img alt="Your image description" src="./img/FinalA1.png">
+</picture>
+
+
+
+
+
 
 <!--- I have professional experience of 4.2+ years of full‐stack development in startups. Involved in taking ownership of key modules from design to deployment, working closely with differents teams to ensure product success. Working effectively in fast‐paced environments and committed to delivering reliable, efficient solutions.
 
