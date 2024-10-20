@@ -17,11 +17,14 @@
 
 <!-- You found something more about me.
 
-< My favorite quote > 
+<My favourite quote> 
 The goal is not simply for you to cross the finish line, but to see how many people you can inspire to run with you.
 
 NO.1 PRINCIPLE OF MY LIFE
 Live for the people you love and around you, and make the money pile for them.
+
+CHECK MY WORKSPACE HERE
+https://github.com/Amarjit-ph/Amarjit-ph/blob/main/resources/img/work-space.png
 
 !--->
 
