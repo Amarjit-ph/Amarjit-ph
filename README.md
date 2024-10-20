@@ -4,10 +4,10 @@
 <!-- Dark/Light Mode Support -->
 <picture>
   <!-- Dark mode image -->
-  <source media="(prefers-color-scheme: dark)" srcset="./resources/img/profile-description-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="./resources/img/profile-description-dark.png">
   
   <!-- Light mode image -->
-  <source media="(prefers-color-scheme: light)" srcset="./resources/img/profile-description-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./resources/img/profile-description-light.png">
   
   <!-- Fallback image -->
   <img alt="Your image description" src="./img/FinalA1.png">
